@@ -182,7 +182,7 @@ Krishna as Sarathi is one of three builds from [KSM × Tech](https://ksmxtech.co
 |---|---|
 | **Krishna as Sarathi** | Generic motivation — it reads the situation, not the sentence |
 | **[Mārgadarshak](https://github.com/prasadsince1999/MargaDarshak)** | Pay-to-rank — no institution can buy a student's ranking |
-| **[Book Is Your Friend](https://github.com/prasadsince1999/Shelfmind)** | The black box — deterministic, transparent recommendations |
+| **[Book Is Your Friend](https://github.com/prasadsince1999/BYF)** | The black box — deterministic, transparent recommendations |
 
 ---
 
