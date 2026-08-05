@@ -1,0 +1,19 @@
+# OS
+.DS_Store
+desktop.ini
+Thumbs.db
+
+# Editor
+.idea/
+.vscode/
+*.iml
+
+# Agent/AI tooling
+.remember/
+.claude/
+CLAUDE.md
+.mcp.json
+
+# Environment
+.env
+*.env
