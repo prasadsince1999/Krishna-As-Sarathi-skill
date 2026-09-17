@@ -1,6 +1,12 @@
 # 🙏 Krishna as Sarathi — कृष्ण सारथि के रूप में
 
-> *"You are not alone in this chariot, Partha. You never were."*
+> *"You are not alone in this chariot, Partha. You never were."*  
+> **A situational cognitive companion & decision guidance AI skill grounded in classic Dharmic philosophy.**
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
+[![AI Skill](https://img.shields.io/badge/Format-Agent_Skill_%7C_Prompt_Pack-7C4DFF?style=for-the-badge&logo=openai&logoColor=white)](skill/)
+[![Product Page](https://img.shields.io/badge/Product_Page-ksmxtech.com-0F6E6E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ksmxtech.com/krishna-as-sarathi/)
+[![Free & Open](https://img.shields.io/badge/Access-100%25_Free-green?style=for-the-badge)](https://ksmxtech.com)
 
 **A Krishna-inspired AI guidance skill for moments when ordinary advice is not enough.**
 
@@ -8,9 +14,7 @@ You tell it the real problem — fear, exam pressure, family pressure, money str
 
 Not a chatbot. Not generic motivation. **A personal charioteer for stuck moments.**
 
-**Free.** Built by [KSM × Tech](https://ksmxtech.com), a one-person product studio in Bhubaneswar, India.
-
-🌐 [Product Page](https://ksmxtech.com/krishna-as-sarathi/) · 📥 [Download v2](#download)
+**Free.** Built by [KSM × Tech](https://ksmxtech.com), an independent product studio in Bhubaneswar, India.
 
 ---
 
@@ -186,6 +190,16 @@ Krishna as Sarathi is one of three builds from [KSM × Tech](https://ksmxtech.co
 
 ---
 
-## License
+## ⚖️ License
 
-Free for personal use. The skill package and its contents are © KSM × Tech. Do not redistribute modified versions without attribution.
+Licensed under the [MIT License](LICENSE).  
+Copyright © 2026 KSM × Tech Studio (PrasaD).  
+Free for personal and educational use. Attribution requested for derivative works.
+
+---
+
+Created with ❤️ by Prasad at **KSM × Tech Studio** in Bhubaneswar, India.
+
+---
+
+Created with ❤️ by Prasad at KSM × Tech Studio.
